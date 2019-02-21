@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1523278006 source:d:\Документы1\ОНПУ\алго\Курсовая\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1523287106 source:e:\Курсовая\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1523290706 source:f:\Курсовая\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1526663061 source:d:\Документы1\Документы\Курсовая(прав)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<string>
+
+1526670268 source:d:\Документы1\Документы\курсовая тест\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<string>
+
+1526995064 source:d:\Документы1\Документы\Курсовая Работа\Программа\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<string>
+
